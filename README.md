@@ -2,6 +2,9 @@
 
 # This repo contains project work for the Database Systems course.
 
+Barsha Chaudhaury and Tyson Gouche worked together with me on this project, but this is a public repository used for conciseness
+--will make sure to make private once it has been graded
+
 **Instructions** 
 
 Copy contents of code.sql into any editor or save school.sql file to your computer and upload it to editor of choice 
