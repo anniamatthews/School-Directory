@@ -4,7 +4,7 @@
 
 **Instructions** 
 
-Copy contents of code.sql into any editor or save code.sql file to your computer and upload it to editor of choice 
+Copy contents of code.sql into any editor or save school.sql file to your computer and upload it to editor of choice 
 
 Run entire code to see all tasks executed 
 
