@@ -7,7 +7,7 @@ Barsha Chaudhaury and Tyson Gouche worked together with me on this project, but 
 
 **Instructions** 
 
-Copy contents of code.sql into any editor or save school.sql file to your computer and upload it to editor of choice 
+Copy contents of school.sql into any editor or save school.sql file to your computer and upload it to editor of choice 
 
 Run entire code to see all tasks executed 
 
@@ -17,7 +17,7 @@ You can follow these steps for ease:
 
 2.Open the DBMS client and connect to the database you just created.
 
-3.Copy the contents of code.sql into the query editor in the DBMS client, or open the file "code.sql" in the DBMS client.
+3.Copy the contents of school.sql into the query editor in the DBMS client, or open the file "school .sql" in the DBMS client.
 
 4.Run the entire code to create the necessary tables and insert the values.
 
