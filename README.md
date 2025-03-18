@@ -1,28 +1,4 @@
-# Database Systems Group Project
-
-# This repo contains project work for the Database Systems course.
-
-Barsha Chaudhaury and Tyson Gouche worked together with me on this project, but this is a public repository used for conciseness
---will make sure to make private once it has been graded
-
-**Instructions** 
-
-Copy contents of school.sql into any editor or save school.sql file to your computer and upload it to editor of choice 
-
-Run entire code to see all tasks executed 
-
-You can follow these steps for ease: 
-
-1.Install a database management system (DBMS) such as MySQL or PostgreSQL on your computer.
-
-2.Open the DBMS client and connect to the database you just created.
-
-3.Copy the contents of school.sql into the query editor in the DBMS client, or open the file "school .sql" in the DBMS client.
-
-4.Run the entire code to create the necessary tables and insert the values.
-
-5.Once the code has been executed, you can query the database to retrieve data or perform tasks as required.
-
+# School Directory Database
 
 #  Create a Grade Book Database
 
